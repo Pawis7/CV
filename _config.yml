@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My Name is Saul, I am a Studient of Computing Science at the "Universidad De Guadlajara" (UDeG)
+  My Name is Saul, I am a Studient of Computing Science at the "Universidad De Guadalajara" (UdG)
 
   I am most skilled in: <mark>Hosting Minecraft Servers</mark> and <mark>Expert Learning on whatever i want to learn</mark>
 
@@ -103,9 +103,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Cucei UdeG
+        title: Universidad de Guadalajara
         caption: 2022 - Now
-        sub_title: "Informatica"
+        sub_title: "Software Engineering"
         quote: >
           This university is a fundamental institution in the formation of human resources and in the production of scientific and technological knowledge, both regionally and nationally.
         description: | # this will include new lines to allow paragraphs
