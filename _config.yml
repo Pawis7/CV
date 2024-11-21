@@ -90,7 +90,7 @@ content:
 
       - layout: top-middle
         title: My Web Page
-        link: pawsite.xyz
+        link: pawstudio.xyz
 
         quote: >
           I made a WebCrawler to compare prices of a product in Mercado libre and aliexpress.
