@@ -49,9 +49,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My Name is Saul, I am a Studient of Computing Science at the "Universidad De Guadalajara" (UdG)
+  My Name is Saul, I am a Studient of Software Engineering at the "Universidad De Guadalajara" (UdG)
 
-  I am most skilled in: <mark>Hosting Minecraft Servers</mark> and <mark>Expert Learning on whatever i want to learn</mark>
+  I am most skilled in: <mark>Hosting Minecraft Servers</mark> and <mark>Expert Learning on whatever</mark>
 
   I really like to learn new things, to be updated all the time and try to understand everything, another thing that appeals to me is to reverse engineer things, otherwise, learn how everything works, learn from that and see if there is something better to do.
 
@@ -88,6 +88,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           This project was made for my web programming class, this project is still in process and I hope to finish it soon.
 
+      - layout: top-middle
+        title: My Web Page
+        link: pawsite.xyz
+
+        quote: >
+          I made a WebCrawler to compare prices of a product in Mercado libre and aliexpress.
+        description: | # this will include new lines to allow paragraphs
+          This project was made for my web programming class, this project is still in process and I hope to finish it soon.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,7 +104,7 @@ content:
       - layout: top-middle
         title: I have no work experience. 
         quote: >
-          I didnt have the opportunity to work in a company, but I have a lot of experience in hosting servers and learning new things.
+          I didnt have the opportunity to work in a company, but I have experience in python, javascript, html, c++ and more (U can see my projects on projects Section).
         description: | # this will include new lines to allow paragraphs
 
 
