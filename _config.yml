@@ -95,7 +95,7 @@ content:
         quote: >
           I made a WebCrawler to compare prices of a product in Mercado libre and aliexpress.
         description: | # this will include new lines to allow paragraphs
-          This project was made for my web programming class, this project is still in process and I hope to finish it soon.
+          This project was made for my web programming class, this project filters the products of a page to compile all the information of the products to make easier your search.
 
 
   - title: Experience # Title for the section
