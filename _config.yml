@@ -96,7 +96,7 @@ content:
         quote: >
           I made my web page to show my projects and my skills and to learn how to host a web page.
         description: | # this will include new lines to allow paragraphs
-          I made this web page to show my projects and my skills, I learned a a bit of html, javascript, nextjs, and more, I also learned how to host a web page in vercel and point my domain to it. This web site is from tutorial and I modified it to my needs,so, this is a recreation form the tutorial, nor a copy, btw isnt finished yet and i am not experienced at all in web development, but I am learning.
+          I made this web page to show my projects and my skills, I learned a a bit of html, css, nextjs, I also learned how to host a web page in vercel and point my domain to it. This web site is from tutorial and I modified it to my needs,so, this is a recreation form the tutorial, nor a copy, btw isnt finished yet and i am not experienced at all in web development, but I am learning.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
