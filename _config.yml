@@ -102,9 +102,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: I have no work experience. 
+        title: I have some experience in programming on
         quote: >
-          I didnt have the opportunity to work in a company, but I have experience in python, javascript, html, c++ and more (U can see my projects on projects Section).
+          python, javascript, html, c++ and more (U can see my projects on projects Section).
         description: | # this will include new lines to allow paragraphs
 
 
